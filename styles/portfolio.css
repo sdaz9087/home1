@@ -232,19 +232,6 @@ footer .social-links a:hover {
   padding: 170px 0;
 }
 
-.header::before {
-  content: "";
-  background-image: url(image2\360_F_374904104_EcOjLIlgNyGhXgMD929ksRjiaZ3tpuPu.jpg);
-  background-position: center;
-  background-size: cover;
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  opacity: 0.37;
-}
-
 .buttons a {
   margin: 120px 105px;
   border: 1px solid var(--secondary-color);
